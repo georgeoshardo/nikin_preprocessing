@@ -1,0 +1,10 @@
+matplotlib
+pims
+tabulate
+pims_nd2
+opencv-python
+cowpy
+celluloid
+colorama
+termcolor
+tqdm
